@@ -1,6 +1,6 @@
 # MiniJogosPython
 - Alguns projetos pequenos apresentando alguns minijogos em Python.
 
-## Inclue:
+## Inclui:
 - Jogo da Forca
 
