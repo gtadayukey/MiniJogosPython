@@ -117,10 +117,10 @@ while True:
     print("1 -> sim")
     print("2 -> não")
     rerun = input("Escolha: ")
-    
-    print("\n\n\n\n")
-    
+       
     if rerun == "1":
+        print("Programa Reiniciando.\n\n\n\n")
         pass
     else:
+        print("Programa Finalizado.\n\n\n\n")
         break
