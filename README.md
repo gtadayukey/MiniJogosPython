@@ -3,4 +3,5 @@
 
 ## Inclui:
 - Jogo da Forca
+- Jogo Pedra, Papel e Tesoura
 
